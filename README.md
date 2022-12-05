@@ -70,4 +70,5 @@ To run this app you would need to install the following:
 
 To run the application you would need to run the LoginWindow.py file by doing python LoginWindow.py and the app will run Run the app whilst in the pipenv shell. To be able to use the app remove the photo from the img/knownAdmin folder. This is because if there is a file within the knownAdmin folder then the app would not let you signup and you cannot login as well preventing you from using the application.
 
+I have also added a PDF of my report on this project which can be found within this repo.
 		
